@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "learning.sln",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "learning\\bin\\Release\\net9.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c14fe267-d994-47a5-8a90-69beee4ccc69/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ganeshweb0089"
+}

@@ -1,0 +1,7 @@
+D:\Devops\az-204\publish\learning.exe
+D:\Devops\az-204\publish\appsettings.Development.json
+D:\Devops\az-204\publish\appsettings.json
+D:\Devops\az-204\publish\learning.dll
+D:\Devops\az-204\publish\learning.deps.json
+D:\Devops\az-204\publish\learning.runtimeconfig.json
+D:\Devops\az-204\publish\learning.pdb

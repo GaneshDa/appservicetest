@@ -1,0 +1,2 @@
+D:\Devops\az-204\learning\bin\Debug\net9.0\learning.exe
+D:\Devops\az-204\learning\bin\Debug\net9.0\learning.dll
